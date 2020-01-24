@@ -1,8 +1,3 @@
-# My Templete for Atcoder
-Atcoder用のテンプレートです。
+# Study Logs of Competitive Programming
 
-# My Answers
-AtcoderのAnswers(Rust)です。
-
-# 使っている言語
-- Rust
+なんか適当に書いたコードなどを貼っていく.
